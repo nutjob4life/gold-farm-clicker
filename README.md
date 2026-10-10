@@ -2,7 +2,7 @@
 
 A small macOS app that auto-clicks a Minecraft gold farm and periodically eats food from a hotbar slot.
 
-For a Windows version, see @chromeeh.
+For a Windows version, see [@chromeeh](https://github.com/chromeeh).
 
 
 ## What it does
