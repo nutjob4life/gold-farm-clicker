@@ -4,6 +4,7 @@ A small macOS app that auto-clicks a Minecraft gold farm and periodically eats f
 
 For a Windows version, see [@chromeeh](https://github.com/chromeeh).
 
+![Screenshot of the user interface while idle](docs/screenshot.png)
 
 ## What it does
 
